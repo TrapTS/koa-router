@@ -1,4 +1,4 @@
-# @eggjs/router
+# @trapts/router
 
 Router core component for [TrapTS](https://github.com/TrapTS).
 
